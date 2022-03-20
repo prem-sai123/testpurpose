@@ -1,0 +1,4 @@
+#Sat Mar 12 00:07:53 IST 2022
+base.0=/Users/sai/Easycloud/testpurpose/testpurpose/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
